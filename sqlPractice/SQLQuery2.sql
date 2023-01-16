@@ -1,0 +1,1 @@
+﻿INSERT INTO test VALUES(5, N'小原', 51, '1971/10/07')

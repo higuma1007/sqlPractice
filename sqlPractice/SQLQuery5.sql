@@ -1,0 +1,1 @@
+﻿INSERT INTO test VALUES( 6, N'緑屋', 25, '1996/08/31')
